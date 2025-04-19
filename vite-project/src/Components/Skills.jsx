@@ -4,8 +4,8 @@ import { SiTailwindcss, SiMongodb, SiFigma, SiPython } from 'react-icons/si';
 
 const Skills = () => {
   return (
-    <section className="py-10 bg-black" id="Skills">
-      <div className="max-w-4xl mx-auto text-center">
+    <section className="py-10 bg-black " id="Skills">
+      <div className="max-w-4xl mx-auto text-center mt-6">
         <h2 className="text-4xl font-bold mb-6 text-white">My Skills</h2>
         <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-6 justify-items-center py-5">
 
